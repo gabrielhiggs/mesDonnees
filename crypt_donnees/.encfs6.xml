@@ -14,24 +14,24 @@
 		<major>3</major>
 		<minor>0</minor>
 	</nameAlg>
-	<keySize>192</keySize>
+	<keySize>256</keySize>
 	<blockSize>1024</blockSize>
 	<uniqueIV>1</uniqueIV>
 	<chainedNameIV>1</chainedNameIV>
-	<externalIVChaining>0</externalIVChaining>
-	<blockMACBytes>0</blockMACBytes>
+	<externalIVChaining>1</externalIVChaining>
+	<blockMACBytes>8</blockMACBytes>
 	<blockMACRandBytes>0</blockMACRandBytes>
 	<allowHoles>1</allowHoles>
-	<encodedKeySize>44</encodedKeySize>
+	<encodedKeySize>52</encodedKeySize>
 	<encodedKeyData>
-WP2yuzaj8/I2QJqbLrX0tGtP1DE2n4Rozv2KEThWzw+HwkRpGinxSYElGn8=
+ybBWKlSOmYPfI0eLkTOQwYfX4UyuJ74i0PT020Ibgbmr3f7fGBXJanxmoSWXqVwuhGoctg==
 	</encodedKeyData>
 	<saltLen>20</saltLen>
 	<saltData>
-zs65EbX9r0UjVwW1p1qo3xaVQ4M=
+CGCiCW7kRcQzWIU/J/FF6BZF7X4=
 	</saltData>
-	<kdfIterations>305898</kdfIterations>
-	<desiredKDFDuration>500</desiredKDFDuration>
+	<kdfIterations>1221525</kdfIterations>
+	<desiredKDFDuration>3000</desiredKDFDuration>
 </cfg>
 </boost_serialization>
 
